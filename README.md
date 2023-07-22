@@ -85,25 +85,9 @@ We have used In-Memory database to implement CRUD Operations.
 
 ## Project Summary
 
-The portal allows for the creation, reading, updating, and deletion of records for HotelRoom model. They can also retrieve specific details of a record, update the attributes of existing records, and delete records from the system.
-Overall, the portal provides a comprehensive solution for performing CRUD operations on the models involved.
 
-## Author
+The portal provides a complete solution for performing CRUD operations on the HotelRoom model. Users can easily create, read, update, and delete records. Additionally, they have the flexibility to access specific record details, modify attributes of existing records, and remove records from the system. This comprehensive functionality ensures seamless management of the models within the portal.
 
-👤 **Goutham Peddi**
 
-* GitHub: [Goutham Peddi](https://gist.github.com/GOUTHAMPEDDI)
-
----
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
-    
----
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
     
 ---
